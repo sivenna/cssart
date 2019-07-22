@@ -1,0 +1,248 @@
+body {
+    
+    background: #000;
+    /*background-image: (radial-gradient(#fff 20%, transparent 0), (radial-gradient(#fff 20%, transparent 0);
+    background-size: 400px 400px;
+    background-position: 0 0, 200px 200px;*/
+    
+   
+}
+
+#stars{
+    
+    position:absolute;
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    display: inline-block;
+  
+    
+}
+
+#sun{
+  position:absolute;
+  top: 30%;
+  height: 288px;
+  width: 144px;
+  background-color: gold;
+  display: inline-block;
+  border-bottom-right-radius: 150px;
+  border-top-right-radius: 150px;
+  border-left: 0;
+
+}
+
+
+.orbit1{
+    
+    position:absolute;
+    height:100%;
+    width: 22%;
+    border-bottom-right-radius: 400px;
+    border-top-right-radius: 400px;
+    border-left: 0;
+    border: 2px solid blue;
+    background: #000011;
+    
+}
+
+.orbit2{
+    
+    position:absolute;
+    height:100%;
+    width: 33%;
+    border-bottom-right-radius: 400px;
+    border-top-right-radius: 400px;
+    border-left: 0;
+    border: 2px solid blue;
+       
+}
+
+.orbit3{
+    
+    position:absolute;
+    height:100%;
+    width: 44%;
+    border-bottom-right-radius: 400px;
+    border-top-right-radius: 400px;
+    border-left: 0;
+    border: 2px solid blue;
+     
+   
+}
+.orbit4{
+    
+    position:absolute;
+    height:100%;
+    width: 55%;
+    border-bottom-right-radius: 400px;
+    border-top-right-radius: 400px;
+    border-left: 0;
+    border: 2px solid blue;
+     
+   
+}
+
+.orbit5{
+    
+    position:absolute;
+    height:100%;
+    width: 66%;
+    border-bottom-right-radius: 400px;
+    border-top-right-radius: 400px;
+    border-left: 0;
+    border: 2px solid blue;
+    border-spacing: 100px;
+   
+   
+}
+
+.orbit6{
+    
+    position:absolute;
+    height:100%;
+    width: 77%;
+    border-bottom-right-radius: 400px;
+    border-top-right-radius: 400px;
+    border-left: 0;
+    border: 2px solid blue;
+       
+}
+
+.orbit7{
+    
+    position:absolute;
+    height:100%;
+    width: 88%;
+    border-bottom-right-radius: 400px;
+    border-top-right-radius: 400px;
+    border-left: 0;
+    border: 2px solid blue;
+    
+   
+}
+
+.orbit8{
+    
+    position:absolute;
+    height:100%;
+    width: 99%;
+    border-bottom-right-radius: 400px;
+    border-top-right-radius: 400px;
+    border-left: 0;
+    border: 2px solid blue;
+    
+     
+   
+}
+
+
+
+#mercury{
+    position:absolute;
+    top: 50%;  
+    left: 22%;
+    height: 30px;
+    width: 30px;
+    background-color: slategrey;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#venus{
+    position:absolute;
+    top: 50%;  
+    left: 33%;
+    height: 40px;
+    width: 40px;
+    background-color: greenyellow;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/*#moon{
+
+  position:absolute;
+  top: 50%;  
+  left: 33%;
+  height: 15px;
+  width: 15px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}*/
+
+#earth{
+  position:absolute;
+   top: 50%;  
+  left: 44%;
+  height: 50px;
+  width: 50px;
+  background-color: skyblue;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+#mars{
+    position:absolute;
+    top: 50%;  
+  left: 55%;
+  height: 35px;
+  width: 35px;
+  background-color: orangered;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+#jupiter{
+    position:absolute;
+    top: 50%;  
+  left: 66%;
+  height: 70px;
+  width: 70px;
+  background-color: burlywood;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+#saturn{
+   position:absolute;
+   top: 50%;  
+  left: 77%;
+  height: 50px;
+  width: 50px;
+  background-color: lightgoldenrodyellow;
+  border-radius: 50%;
+  display: inline-block; 
+}
+
+#uranus{
+  position:absolute;
+  top: 50%;  
+  left: 88%;
+  height: 50px;
+  width: 50px;
+  background-color: aliceblue;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+#neptune{
+    position:absolute;
+    top: 50%;  
+    left: 96%;
+    height: 50px;
+    width: 50px;
+    background-color: royalblue;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+
+/*#stars{
+    
+    background-image: (radial-gradient(#fff 20%, transparent 0), (radial-gradient(#fff 20%, transparent 0);
+    background-size: 400px 400px;
+    background-position: 0 0, 200px 200px;
+}*/
+
